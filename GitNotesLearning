@@ -1,0 +1,6 @@
+Complete data of Git is available
+add        Add file contents to the index
+   branch     List, create, or delete branches
+   checkout   Checkout a branch or paths to the working tree
+   clone      Clone a repository into a new director
+   tag        Create, list, delete or verify a tag object signed with GPG
